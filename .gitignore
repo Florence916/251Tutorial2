@@ -1,0 +1,6 @@
+.settings/
+.classpath
+.project
+target/
+*.class
+31.1-jre.jar
